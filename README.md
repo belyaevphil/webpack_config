@@ -54,7 +54,7 @@ const publicPath = '/webpack_config/';
 Make sure you commit all changes before you go any further:
 
 ```bash
-git add . && git commit -m "created last commit before build"
+git add . && git commit -m "created last commit before build" && git push -u origin master
 ```
 
 Run the command down below to build project (there will appear `dist` folder):
