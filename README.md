@@ -21,7 +21,7 @@ Clone repository:
 git clone https://github.com/belyaevphil/webpack_config
 ```
 
-or download archive [right here](https://github.com/belyaevphil/todo_list/archive/master.zip).
+or download archive [right here](https://github.com/belyaevphil/webpack_config/archive/master.zip).
 
 ## Usage:
 
